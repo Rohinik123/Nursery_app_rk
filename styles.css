@@ -223,7 +223,7 @@ section{
 
 
 .deal{
-    background: url(/green_img.png)no-repeat ;
+    background: url(/assets/green_img.png)no-repeat ;
     background-position: center;
     background-size: cover;
     padding-top: 7rem;
