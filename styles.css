@@ -197,7 +197,7 @@ section{
 }
 .banner-container .banner img{
     height: 100%;
-    width: 100%;
+    width: 80%;
     
     
     
@@ -297,7 +297,7 @@ section{
     width:100%
 }
 .newsletter{
-    background: url() no-repeat;
+    background: url(newsletter.avif) no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
